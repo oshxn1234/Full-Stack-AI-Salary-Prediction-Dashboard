@@ -1,16 +1,4 @@
-# React + Vite
+# 🚀 AI-Powered Salary Prediction Dashboard
+An intelligent Full Stack Salary Prediction Dashboard developed using React.js, Flask, and Machine Learning. This application analyzes key career-related factors such as job role, experience, industry, company type, skills, city, work mode, and education level to generate real-time salary predictions through a modern and interactive dashboard interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project demonstrates the integration of Machine Learning models with a responsive web application architecture, combining frontend development, backend API integration, and AI-based prediction systems into a complete real-world solution.
